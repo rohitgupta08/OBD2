@@ -1,1 +1,2 @@
 https://github.com/feathersjs/feathers/pull/33
+https://docs.feathersjs.com/guides/chat/authentication.html
