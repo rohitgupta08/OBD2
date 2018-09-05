@@ -1,2 +1,7 @@
 https://github.com/feathersjs/feathers/pull/33
 https://docs.feathersjs.com/guides/chat/authentication.html
+https://github.com/hokein/electron-sample-apps
+https://electronjs.org/docs/tutorial/debugging-main-process-vscode
+https://itextpdf.com/
+https://github.com/Microsoft/vscode-recipes/tree/master/Electron
+https://docs.feathersjs.com/api/authentication/local.html
